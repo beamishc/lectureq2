@@ -1,2 +1,3 @@
-stuff
-stuff
+while True:
+    print("You're doing great!")
+
